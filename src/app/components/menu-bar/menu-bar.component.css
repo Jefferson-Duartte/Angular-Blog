@@ -1,0 +1,23 @@
+.container__menu-bar{
+  height: 60px;
+  margin-bottom: -30px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+}
+.container__menu-bar ul{
+  display: flex;
+  gap: 60px;
+  list-style: none;
+}
+
+.container__menu-bar ul li a{
+    transition: 0.2s ease;
+    text-decoration: none;
+}
+
+.container__menu-bar ul li a:hover{
+  color: rgb(150, 150, 150);
+
+}

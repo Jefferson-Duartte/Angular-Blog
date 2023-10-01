@@ -1,0 +1,11 @@
+.articles{
+  display: flex;
+  gap: 50px;
+  justify-content: space-between;
+  margin: 0px 25px;
+}
+.articles__others{
+  display:flex;
+  flex-direction: column;
+  gap: 15px;
+}

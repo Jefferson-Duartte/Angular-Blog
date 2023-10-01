@@ -1,0 +1,26 @@
+a{
+  text-decoration: none;
+}
+.container__small-card{
+  display: flex;
+  margin-bottom:10px;
+}
+.small-card__photo img{
+  width: 180px;
+  height: 90px;
+}
+
+.small-card__text{
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.small-card__title > h1{
+  font-size: 20px;
+}
+
+.small-card__description p{
+  color: rgb(134, 133, 133);
+  margin-top: 10px;
+}

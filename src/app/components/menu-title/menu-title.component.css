@@ -1,0 +1,11 @@
+.menu__title__container {
+  margin: 15px 0px;
+  padding: 25px;
+}
+
+.menu__title__container > h1 {
+  font-size: 7rem;
+  padding: 15px 0px;
+  font-family: "segoe UI";
+  text-align: center;
+}
